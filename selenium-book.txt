@@ -1,0 +1,5 @@
+Selenium Books:
+
+Selenium WebDriver Practical Guide By Satya Avasaarala-January 24,2014.
+
+Selenium Testingt Tools Cookbook by Roy de kleijin @ Unmesh Gundecha
